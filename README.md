@@ -86,7 +86,7 @@ Plugin Name        | Stars
 >
 > * [PayPal](https://www.paypal.me/TheAlphamerc/)
 
-> You can also nominate me for Github Star developer program
+> You can also nominate me for Github Star developer programs
 > https://stars.github.com/nominate
 
 ## Visitors Count
